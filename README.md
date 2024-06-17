@@ -1,7 +1,7 @@
 ## 👋 Oii, meu nome é Thaynara Lima!
 Estou atualmente estudando para me tornar uma desenvolvedora Front-end!
 - 🔭 Atualmente estou só nos estudos, mas pronta para uma primeira oportunidade 😉
-- 🌱 No momento estou dedicada a aprender mais sobre o TypeScript 📚
+- 🌱 No momento estou dedicada a aprofundar mais nas habilidades de React e TypeScript 📚
 - 😄 Pronomes: ela/dela
 
 ### 🔗 Meus Links: 
