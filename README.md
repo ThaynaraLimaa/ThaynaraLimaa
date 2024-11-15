@@ -1,14 +1,15 @@
-## 👋 Oii, meu nome é Thaynara Lima!
-Estou atualmente estudando para me tornar uma desenvolvedora Front-end!
-- 🔭 Atualmente estou só nos estudos, mas pronta para uma primeira oportunidade 😉
-- 🌱 No momento estou dedicada a aprofundar mais nas habilidades de React e TypeScript 📚
-- 😄 Pronomes: ela/dela
+## 👋 Oii, I'm Thaynara Lima!
+I'm currently studying to become a front-end developer 😊
+- 🔭 At the moment I'm just studying, but I can't wait to have my first opportunity in the area  😉
+- 🌱 I'm focusing on improving my React and TypeScript skills 📚
+- 😄 Pronouns: She/her
+- 🌍 Languages: Portuguese (native) and English (intermediate/advanced)
 
-### 🔗 Meus Links: 
+### 🔗 My links: 
 - [Likedin](https://www.linkedin.com/in/thaynara-lima-55212b190/)
 - [Alura](https://cursos.alura.com.br/user/thaynaralimaa61)
 
-### 🛠️ Minhas tecnologias: 
+### 🛠️ My Technologies: 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
